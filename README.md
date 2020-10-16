@@ -1,12 +1,12 @@
 # LVGL-simple-interface
 
-HARDWARE 
+# HARDWARE 
 ->STM32F429i-Disco
 
-SOFTWARE
+# SOFTWARE
 ->LVGL LIBRARY
-FOR MORE INFORMATION ABOUT LIBRARY PLEASE VISIT: https://lvgl.io/
+->FOR MORE INFORMATION ABOUT LIBRARY PLEASE VISIT: https://lvgl.io/
 
-IDE
+# IDE
 ->VS CODE
 ->https://platformio.org/
